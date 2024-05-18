@@ -49,3 +49,6 @@ This repository contains a Streamlit application for zero-shot text classificati
 
 - [Streamlit](https://streamlit.io/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
+
+![image](https://github.com/iamsandeeprSand/ZeroShotClassifier/assets/139530620/ba36931b-1415-4398-b760-d664b0b21b22)
+
