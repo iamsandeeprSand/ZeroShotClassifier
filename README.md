@@ -1,4 +1,6 @@
-# Zero-Shot Text Classification App   https://www.youtube.com/watch?v=v1tBMj-OPDs
+# Zero-Shot Text Classification App   
+
+https://www.youtube.com/watch?v=v1tBMj-OPDs
 
 This repository contains a Streamlit application for zero-shot text classification using Hugging Face's Transformers library. The app allows users to input text and a set of labels, and it predicts the likelihood of each label for the given text.
 
